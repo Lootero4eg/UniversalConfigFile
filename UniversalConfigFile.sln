@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalConfigFile", "UniversalConfigFile\UniversalConfigFile.csproj", "{5931AAB1-4EF6-4564-AA72-14F78427D6F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anvlib_core", "..\anvlib\anvlib_core\anvlib_core.csproj", "{D151E305-4950-482C-A05C-34E71E003CDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anvlib_crypt", "..\anvlib\anvlib_crypt\anvlib_crypt.csproj", "{A3AC254B-91BA-4C9E-A44D-1FFDFF89D12C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5931AAB1-4EF6-4564-AA72-14F78427D6F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5931AAB1-4EF6-4564-AA72-14F78427D6F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5931AAB1-4EF6-4564-AA72-14F78427D6F9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5931AAB1-4EF6-4564-AA72-14F78427D6F9}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5931AAB1-4EF6-4564-AA72-14F78427D6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5931AAB1-4EF6-4564-AA72-14F78427D6F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5931AAB1-4EF6-4564-AA72-14F78427D6F9}.Release|x64.ActiveCfg = Release|Any CPU
+		{5931AAB1-4EF6-4564-AA72-14F78427D6F9}.Release|x86.ActiveCfg = Release|Any CPU
+		{D151E305-4950-482C-A05C-34E71E003CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D151E305-4950-482C-A05C-34E71E003CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D151E305-4950-482C-A05C-34E71E003CDD}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{D151E305-4950-482C-A05C-34E71E003CDD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D151E305-4950-482C-A05C-34E71E003CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D151E305-4950-482C-A05C-34E71E003CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D151E305-4950-482C-A05C-34E71E003CDD}.Release|x64.ActiveCfg = Release|Any CPU
+		{D151E305-4950-482C-A05C-34E71E003CDD}.Release|x86.ActiveCfg = Release|Any CPU
+		{A3AC254B-91BA-4C9E-A44D-1FFDFF89D12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3AC254B-91BA-4C9E-A44D-1FFDFF89D12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3AC254B-91BA-4C9E-A44D-1FFDFF89D12C}.Debug|x64.ActiveCfg = Debug|x64
+		{A3AC254B-91BA-4C9E-A44D-1FFDFF89D12C}.Debug|x64.Build.0 = Debug|x64
+		{A3AC254B-91BA-4C9E-A44D-1FFDFF89D12C}.Debug|x86.ActiveCfg = Debug|x86
+		{A3AC254B-91BA-4C9E-A44D-1FFDFF89D12C}.Debug|x86.Build.0 = Debug|x86
+		{A3AC254B-91BA-4C9E-A44D-1FFDFF89D12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3AC254B-91BA-4C9E-A44D-1FFDFF89D12C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3AC254B-91BA-4C9E-A44D-1FFDFF89D12C}.Release|x64.ActiveCfg = Release|x64
+		{A3AC254B-91BA-4C9E-A44D-1FFDFF89D12C}.Release|x64.Build.0 = Release|x64
+		{A3AC254B-91BA-4C9E-A44D-1FFDFF89D12C}.Release|x86.ActiveCfg = Release|x86
+		{A3AC254B-91BA-4C9E-A44D-1FFDFF89D12C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

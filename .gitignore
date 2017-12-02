@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+UniversalConfigFile.v11.suo
+bin/
+obj/
+UniversalConfigFile/universal_config.pfx
